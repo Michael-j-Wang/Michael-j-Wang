@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michael-j-Wang
 - 👀 I’m interested in Formula 1, eSports (mainly LoL), Cycling, lifting
 - 🌱 I’m currently learning Chemical Engineering at The University of Waterloo
-- 💞️ I’m looking to collaborate really anything
+- 💞️ I’m looking to collaborate on coding projects that are useful for the Chem Eng industry
 - 📫 How to reach me 519-502-9479 or m536wang@uwaterloo.ca
 
 <!---
